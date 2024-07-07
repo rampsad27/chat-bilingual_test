@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106890193813",
+    "project_id": "userchat-de053",
+    "storage_bucket": "userchat-de053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106890193813:android:b453a7199b7a9569f8649c",
+        "android_client_info": {
+          "package_name": "com.example.user_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5aj5n0RaH_IjrcmA3vNa2Gd6dNw6ia74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
